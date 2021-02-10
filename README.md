@@ -1,5 +1,5 @@
 # fast-scnn
-![Fast-SCNN](https://arxiv.org/abs/1902.04502) implementation in tensorflow2\
+[Fast-SCNN](https://arxiv.org/abs/1902.04502) implementation in tensorflow2\
 <img src="img/fast-SCNN_architecture.PNG" width=600>
 
 ## Dataset
